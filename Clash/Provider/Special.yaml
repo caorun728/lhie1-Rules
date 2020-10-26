@@ -37,6 +37,10 @@ payload:
   - DOMAIN-SUFFIX,pinyuncloud.com
   - DOMAIN-SUFFIX,steamcontent.com
 
+  # > Tesla
+  - DOMAIN-SUFFIX,tesla.cn
+  - DOMAIN-SUFFIX,tesla-cdn.thron.cn
+
   # > UUBooster
   - PROCESS-NAME,UUBooster
 
@@ -89,3 +93,10 @@ payload:
   - DOMAIN-KEYWORD,torrent
   - DOMAIN-SUFFIX,smtp
   # - URL-REGEX,(Subject|HELO|SMTP)
+
+  - DOMAIN-SUFFIX,local
+  - IP-CIDR,127.0.0.0/8
+  - IP-CIDR,172.16.0.0/12
+  - IP-CIDR,192.168.0.0/16
+  - IP-CIDR,10.0.0.0/8
+  - IP-CIDR,100.64.0.0/10

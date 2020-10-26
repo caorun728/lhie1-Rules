@@ -1310,6 +1310,7 @@ DOMAIN-SUFFIX,adstil.indiatimes.com
 DOMAIN-SUFFIX,ad-stir.com
 DOMAIN-SUFFIX,adstream.123.sogoucdn.com
 DOMAIN-SUFFIX,ads-twitter.com
+DOMAIN-SUFFIX,ads-v-darwin.hulustream.com
 DOMAIN-SUFFIX,adsunflower.com
 DOMAIN-SUFFIX,adsunion.com
 DOMAIN-SUFFIX,ad-survey.com
@@ -1580,7 +1581,6 @@ DOMAIN-SUFFIX,app.3987.com
 DOMAIN-SUFFIX,app.9yyg.cn
 DOMAIN-SUFFIX,app.abc000.today
 DOMAIN-SUFFIX,app.acm.dzwww.com
-DOMAIN-SUFFIX,app.adjust.com
 DOMAIN-SUFFIX,app.eduancm.com
 DOMAIN-SUFFIX,app.houyi.baofeng.net
 DOMAIN-SUFFIX,app.hytdsm.com
@@ -7768,6 +7768,7 @@ DOMAIN-SUFFIX,wxb.wxbdfm.com
 DOMAIN-SUFFIX,wxmmh.net
 DOMAIN-SUFFIX,wxsnsdy.tc.qq.com
 DOMAIN-SUFFIX,wxsnsdy.video.qq.com
+DOMAIN-SUFFIX,wxsnsdy.wxs.qq.com
 DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
 DOMAIN-SUFFIX,wxtz.houmags.com
 DOMAIN-SUFFIX,wxwm1.ikuailian.com
@@ -8263,8 +8264,6 @@ URL-REGEX,^http:\/\/[\s\S]*baidu\.com/.*ad[xs]\.php
 URL-REGEX,^http:\/\/c\.tieba\.baidu\.com\/c\/s\/splashSchedule$
 
 # > Bilibili
-DOMAIN,cm.bilibili.com
-DOMAIN,data.bilibili.com
 DOMAIN,miniapp.bilibili.com
 DOMAIN,thirdparty.biliapi.com
 URL-REGEX,https://app.bilibili.com/x/v2/param
